@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anisimov Andrew HUGO site 1</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Anisimov Andrew HUGO site 1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Feb 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post #1</title>
+      <link>http://localhost:1313/post/main/</link>
+      <pubDate>Tue, 27 Feb 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/post/main/</guid>
+      <description>(Пример из предыдущего семестра) Организация и проведение юзабилити-тестирования компонента образовательной среды образовательного учреждения и создание отчета о его результатах (в виде презентации или текстового документа) в GitHub, оформление с использованием разметки Markdown.&#xA;Сайт:&#xA;сайт по продаже атомобилей: https://auto.ru/&#xA;Цель:&#xA;Проанализировать насколько понятными являются категории автомобилей на сайте (Пользователи находят авто в той категории, которую выбирают первой)&#xA;Методы:&#xA;Юзабилити-тестирование в формате “think aloud” (пользователя просят вслух комментировать все свои действия). Опросник субъективной удовлетворенности.</description>
+    </item>
+  </channel>
+</rss>

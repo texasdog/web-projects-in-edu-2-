@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Anisimov Andrew HUGO site 1'
+theme = 'ananke' 
+ 
+ 
